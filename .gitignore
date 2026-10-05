@@ -1,0 +1,9 @@
+# PowerShell / editor artefacts
+*.log
+*.tmp
+.vscode/
+.idea/
+
+# Local test files
+local-config.ps1
+test-output/

@@ -1,0 +1,8 @@
+Example output only — device names and versions are fictional.
+
+PC-001 | OK | Queues=Managed Print - Mono, Managed Print - Colour | Minimum=2.5.0.0
+PC-014 | ISSUE | Managed Print - Mono: driver 2.3.0.0 is below minimum 2.5.0.0
+PC-014 | REPAIRED | Removed stale driver 2.3.0.0
+PC-022 | BLOCKED | Pending print jobs on Managed Print - Colour; repair deferred
+PC-031 | BLOCKED | Driver is also used by another printer: Reception Printer
+PC-040 | NO ACTION | Target queues are not currently installed
